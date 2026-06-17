@@ -6,7 +6,7 @@ I am studying front-end development.
 
 Currently, I am proficient in tools such as:
 - HTML
-- CSS
-- SCSS
-- JavaScript
+- CSS / SCSS
+- JavaScript / TypeScript
+- React
 - Figma.
