@@ -9,4 +9,5 @@ Currently, I am proficient in tools such as:
 - CSS / SCSS
 - JavaScript / TypeScript
 - React
+- Redux Toolkit
 - Figma.
